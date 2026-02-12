@@ -1,0 +1,78 @@
+class EarbudsProduct {
+    public static void main(String[] args) {
+
+        String noiseControl = "Active Noise Cancellation";
+        String headphonesJack = "No Jack";
+        String modelName = "Airdopes 141";
+        String connectivityTechnology = "Bluetooth";
+        String wirelessCommunicationTechnology = "Bluetooth";
+        String includedComponents = "Additional Earbuds, Cable, TWS Earbuds, User Manual";
+        String ageRange = "Teen, Adult";
+        String material = "Plastic";
+        String specificUses = "Entertainment, Travel";
+        int chargingTime = 3;
+        String compatibleDevices = "Cellphones, Laptop, etc";
+        int itemWeight = 50;
+        String waterResistanceLevel = "Water Resistant";
+        String controlMethod = "Touch";
+        int numberOfItems = 4;
+        int batteryLife = 48;
+        String audioDriverType = "Dynamic Driver";
+        int bluetoothRange = 10;
+        double bluetoothVersion = 5.4;
+        String earpieceShape = "Bud";
+        int seriesNumber = 20;
+        String inputDeviceInterface = "Bluetooth";
+        String noiseControlFeatures = "Active Noise Cancellation";
+        int generation = 2;
+        String supportsBluetoothTechnology = "Yes";
+        String specialFeature = "Echo Cancellation, Fast Charging, Sweatproof, Low Latency";
+        String manufacturer = "Imagine Marketing Ltd";
+        String model = "Airdopes 141";
+        String productDimensions = "5 x 6 x 4 cm";
+        String batteries = "1 12V batteries required (included)";
+        String itemModelNumber = "Airdopes 141";
+        String batteriesIncluded = "Yes";
+        String batteriesRequired = "Yes";
+        String batteryCellComposition = "Lithium Ion";
+        String includesRechargeableBattery = "Yes";
+        String countryOfOrigin = "India";
+
+        System.out.println("Noise Control: " + noiseControl);
+        System.out.println("Headphones Jack: " + headphonesJack);
+        System.out.println("Model Name: " + modelName);
+        System.out.println("Connectivity Technology: " + connectivityTechnology);
+        System.out.println("Wireless Communication Technology: " + wirelessCommunicationTechnology);
+        System.out.println("Included Components: " + includedComponents);
+        System.out.println("Age Range: " + ageRange);
+        System.out.println("Material: " + material);
+        System.out.println("Specific Uses: " + specificUses);
+        System.out.println("Charging Time: " + chargingTime + " Hours");
+        System.out.println("Compatible Devices: " + compatibleDevices);
+        System.out.println("Item Weight: " + itemWeight + " Grams");
+        System.out.println("Water Resistance Level: " + waterResistanceLevel);
+        System.out.println("Control Method: " + controlMethod);
+        System.out.println("Number of Items: " + numberOfItems);
+        System.out.println("Battery Life: " + batteryLife + " Hours");
+        System.out.println("Audio Driver Type: " + audioDriverType);
+        System.out.println("Bluetooth Range: " + bluetoothRange + " Metres");
+        System.out.println("Bluetooth Version: " + bluetoothVersion);
+        System.out.println("Earpiece Shape: " + earpieceShape);
+        System.out.println("Series Number: " + seriesNumber);
+        System.out.println("Input Device Interface: " + inputDeviceInterface);
+        System.out.println("Noise Control Features: " + noiseControlFeatures);
+        System.out.println("Generation: " + generation);
+        System.out.println("Supports Bluetooth Technology: " + supportsBluetoothTechnology);
+        System.out.println("Special Feature: " + specialFeature);
+        System.out.println("Manufacturer: " + manufacturer);
+        System.out.println("Model: " + model);
+        System.out.println("Product Dimensions: " + productDimensions);
+        System.out.println("Batteries: " + batteries);
+        System.out.println("Item Model Number: " + itemModelNumber);
+        System.out.println("Batteries Included: " + batteriesIncluded);
+        System.out.println("Batteries Required: " + batteriesRequired);
+        System.out.println("Battery Cell Composition: " + batteryCellComposition);
+        System.out.println("Includes Rechargeable Battery: " + includesRechargeableBattery);
+        System.out.println("Country of Origin: " + countryOfOrigin);
+    }
+}
